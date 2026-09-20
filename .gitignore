@@ -1,0 +1,7 @@
+plotsymh.m
+info.txt
+output/
+data/
+output/
+__pycache__/
+*.pyc
