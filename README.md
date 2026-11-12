@@ -44,12 +44,6 @@ Data is saved to `data/data.txt` in 5-column format: `Year Day-of-Year Hour Minu
 - `output/images/*.png` — Per-storm plots (default)
 - `output/images/allstorms.png` — Overview plot (`--all` mode)
 
-### Plot Legend
-- **Black line**: Raw SYM/H data
-- **Blue line**: Identified storm segment
-- **Yellow patch**: MPO → MIN region
-- **Green label**: MPO value // HH:MM
-- **Red label**: MIN value // HH:MM
 
 ## Makefile Targets
 
